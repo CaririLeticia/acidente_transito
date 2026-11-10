@@ -15,7 +15,7 @@ Base: https://dados.fortaleza.ce.gov.br/dataset/sinistros-transito (cerca de 130
 
 ## Como rodar
 
-Precisa de Python 3.11 ou 3.12 (o 3.14 ainda pode dar problema com geopandas).
+Testado com Python 3.14, mas deve funcionar do 3.11 pra cima.
 
 ```bash
 git clone <url-do-repo>
